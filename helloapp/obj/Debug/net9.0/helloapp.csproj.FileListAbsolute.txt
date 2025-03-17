@@ -1,0 +1,15 @@
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\bin\Debug\net9.0\helloapp.exe
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\bin\Debug\net9.0\helloapp.deps.json
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\bin\Debug\net9.0\helloapp.runtimeconfig.json
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\bin\Debug\net9.0\helloapp.dll
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\bin\Debug\net9.0\helloapp.pdb
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\obj\Debug\net9.0\helloapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\obj\Debug\net9.0\helloapp.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\obj\Debug\net9.0\helloapp.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\obj\Debug\net9.0\helloapp.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\obj\Debug\net9.0\helloapp.sourcelink.json
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\obj\Debug\net9.0\helloapp.dll
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\obj\Debug\net9.0\refint\helloapp.dll
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\obj\Debug\net9.0\helloapp.pdb
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\obj\Debug\net9.0\helloapp.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Desktop\my_project\SimpleFileManagerCSharp\SimpleFileManagerCSharp\helloapp\obj\Debug\net9.0\ref\helloapp.dll
